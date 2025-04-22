@@ -22,7 +22,7 @@ const Subsribe = () => {
             Get Notified About New Products
           </h1>
           <input
-            className="w-full bg-white p-3"
+            className="w-full bg-white p-3 placeholder:text-gray-500"
             type="text"
             placeholder="Enter your email"
             data-aos="fade-up"
